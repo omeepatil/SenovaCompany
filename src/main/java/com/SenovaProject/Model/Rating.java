@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> e0318103d711a20640fa6c44b9125fcf597e52e7
 package com.SenovaProject.Model;
 
 import java.util.Date;
@@ -62,4 +65,8 @@ public class Rating {
 				+ date + "]";
 	}
 	
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e0318103d711a20640fa6c44b9125fcf597e52e7

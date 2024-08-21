@@ -66,4 +66,8 @@ public class Category {
 		return "Category [id=" + id + ", name=" + name + ", date=" + date + ", Discription=" + Discription + "]";
 	}
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e0318103d711a20640fa6c44b9125fcf597e52e7

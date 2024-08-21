@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> e0318103d711a20640fa6c44b9125fcf597e52e7
 package com.SenovaProject.Model;
 
 import java.util.Date;
@@ -88,4 +91,8 @@ public class OrderDetails {
 		return "OrderDetails [id=" + id + ", username=" + username + ", productid=" + productid + ", date=" + date
 				+ ", orderid=" + orderid + ", price=" + price + "]";
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e0318103d711a20640fa6c44b9125fcf597e52e7
