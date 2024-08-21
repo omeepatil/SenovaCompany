@@ -15,7 +15,6 @@ import com.SenovaProject.Repositoty.UserRepo;
 
 @RestController
 @CrossOrigin
-
 public class LoginController {
 
 	@Autowired
